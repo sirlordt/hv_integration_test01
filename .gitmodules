@@ -1,0 +1,6 @@
+[submodule "external/libraries/hv/git_repo"]
+	path = external/libraries/hv/git_repo
+	url = https://github.com/ithewei/libhv
+[submodule "external/libraries/bcrypt/git_repo"]
+	path = external/libraries/bcrypt/git_repo
+	url = https://github.com/hilch/Bcrypt.cpp
